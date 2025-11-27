@@ -131,29 +131,30 @@ Swiggy Sales data_Report.xlsx
 
 
 ## Recommendations
-- Business Strategy
+- **Business Strategy**
 
 -Expand promotional campaigns in low-performing states to increase market penetration.
 
 -Strengthen operations in high-demand Tier-1 cities to increase delivery capacity and reduce delays.
 
-- Menu Optimization
+- **Menu Optimization**
 
 -Increase non-veg offerings since they generate 64% of sales.
 
 -Promote veg combos during festivals or vegetarian seasons to uplift that segment.
 
-- Improve Weekday Sales
+- **Improve Weekday Sales**
 
 -Offer special Tuesday–Thursday discounts to boost mid-week orders.
 
- - Enhance Customer Experience
+ - **Enhance Customer Experience**
 
 -Focus on improving delivery time and quality in top cities to maintain rating levels.
 
-- Partner Management
+- **Partner Management**
 
 -Provide performance insights to restaurants to optimize their menu pricing and bestsellers.
+
 ## Future Work
 - Include peak hour analysis for better resource allocation.
 
