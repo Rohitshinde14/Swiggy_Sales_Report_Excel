@@ -82,11 +82,11 @@ The dataset includes 197430 rows and 15 columns. File is attached in repository.
 
 **4. Food Type Preference**
 
-- Veg: ₹12.3M (36%)
+- Veg: ₹33.8M (64%)
 
-- Non-Veg: ₹33.8M (64%)
+- Non-Veg: ₹12.3M (36%)
 
--  Non-veg categories dominate Swiggy’s order mix.
+- Veg categories dominate Swiggy’s order mix.
 
 **5. Sales by State**
 
@@ -120,7 +120,7 @@ The dataset includes 197430 rows and 15 columns. File is attached in repository.
 
 - Q3: ₹134M, Rating 4.3, 50.2K orders
 
-  -Q3  suggests either seasonality or reduced demand.
+  Q3  suggests either seasonality or reduced demand.
   
 ## How to Run This Project
 * Clone the repository:
@@ -141,7 +141,7 @@ Swiggy Sales data_Report.xlsx
 
 -Increase non-veg offerings since they generate 64% of sales.
 
--Promote veg combos during festivals or vegetarian seasons to uplift that segment.
+-Promote non-veg combos during Non-festivals or non-vegetarian seasons to uplift that segment.
 
 - **Improve Weekday Sales**
 
